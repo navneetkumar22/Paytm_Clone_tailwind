@@ -1,6 +1,6 @@
 # **PayTM Homepage Clone !**
 
-This Shopify Clone  Page is created using HTML and Tailwind-CSS which is a utility first framework of CSS.
+This PayTM Clone  Page is created using HTML and Tailwind-CSS which is a utility first framework of CSS.
 
 </br>
 
